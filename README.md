@@ -1,3 +1,3 @@
-## This is the public repository used in NJDPB Project.
+## Website Healthcheck
 
-Check out different branches for different work
+Java Springboot project to check website health
